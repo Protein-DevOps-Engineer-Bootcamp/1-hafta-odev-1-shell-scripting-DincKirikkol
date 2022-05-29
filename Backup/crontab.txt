@@ -1,0 +1,5 @@
+
+## Crontab Dosyası Aşağıdaki Şekilde Düzenlenmiştir ! 
+
+
+5 23 * * * /home/dinc/backup/backup.sh
